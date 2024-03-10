@@ -1,0 +1,14 @@
+C:\Users\mustafa\Desktop\ArıBilgi\CokBoyutluDiziler2\obj\Debug\net8.0\CokBoyutluDiziler2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\ArıBilgi\CokBoyutluDiziler2\obj\Debug\net8.0\CokBoyutluDiziler2.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\CokBoyutluDiziler2\obj\Debug\net8.0\CokBoyutluDiziler2.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\ArıBilgi\CokBoyutluDiziler2\obj\Debug\net8.0\CokBoyutluDiziler2.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\CokBoyutluDiziler2\bin\Debug\net8.0\CokBoyutluDiziler2.exe
+C:\Users\mustafa\Desktop\ArıBilgi\CokBoyutluDiziler2\bin\Debug\net8.0\CokBoyutluDiziler2.deps.json
+C:\Users\mustafa\Desktop\ArıBilgi\CokBoyutluDiziler2\bin\Debug\net8.0\CokBoyutluDiziler2.runtimeconfig.json
+C:\Users\mustafa\Desktop\ArıBilgi\CokBoyutluDiziler2\bin\Debug\net8.0\CokBoyutluDiziler2.dll
+C:\Users\mustafa\Desktop\ArıBilgi\CokBoyutluDiziler2\bin\Debug\net8.0\CokBoyutluDiziler2.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\CokBoyutluDiziler2\obj\Debug\net8.0\CokBoyutluDiziler2.dll
+C:\Users\mustafa\Desktop\ArıBilgi\CokBoyutluDiziler2\obj\Debug\net8.0\refint\CokBoyutluDiziler2.dll
+C:\Users\mustafa\Desktop\ArıBilgi\CokBoyutluDiziler2\obj\Debug\net8.0\CokBoyutluDiziler2.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\CokBoyutluDiziler2\obj\Debug\net8.0\CokBoyutluDiziler2.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\ArıBilgi\CokBoyutluDiziler2\obj\Debug\net8.0\ref\CokBoyutluDiziler2.dll
