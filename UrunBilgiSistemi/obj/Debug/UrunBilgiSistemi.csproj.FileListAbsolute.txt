@@ -1,0 +1,10 @@
+C:\Users\mustafa\Desktop\ArıBilgi\UrunBilgiSistemi\bin\Debug\UrunBilgiSistemi.exe.config
+C:\Users\mustafa\Desktop\ArıBilgi\UrunBilgiSistemi\bin\Debug\UrunBilgiSistemi.exe
+C:\Users\mustafa\Desktop\ArıBilgi\UrunBilgiSistemi\bin\Debug\UrunBilgiSistemi.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\UrunBilgiSistemi\obj\Debug\UrunBilgiSistemi.csproj.AssemblyReference.cache
+C:\Users\mustafa\Desktop\ArıBilgi\UrunBilgiSistemi\obj\Debug\UrunBilgiSistemi.Form1.resources
+C:\Users\mustafa\Desktop\ArıBilgi\UrunBilgiSistemi\obj\Debug\UrunBilgiSistemi.Properties.Resources.resources
+C:\Users\mustafa\Desktop\ArıBilgi\UrunBilgiSistemi\obj\Debug\UrunBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\ArıBilgi\UrunBilgiSistemi\obj\Debug\UrunBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\UrunBilgiSistemi\obj\Debug\UrunBilgiSistemi.exe
+C:\Users\mustafa\Desktop\ArıBilgi\UrunBilgiSistemi\obj\Debug\UrunBilgiSistemi.pdb
